@@ -42,13 +42,13 @@
     </p>
 <p align="center">
     <a href="https://github.com/rlxop99/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=RLX-OP&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=rlxop99&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF" />
   </a> 
   <a href="https://github.com/rlxop99/">
-        <img src="https://github-readme-stats.vercel.app/api?username=RLX-OP&show_icons=true&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api?username=rlxop99&show_icons=true&theme=radical" />
   </a> 
 <br>
 <a href="https://github.com/rlxop99/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RLX-OP&theme=radical&langs_count=8&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlxop99&theme=radical&langs_count=8&layout=compact" />
   </a> 
 </p>
